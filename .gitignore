@@ -1,0 +1,11 @@
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office temporary / lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.docx
+~$*.pptx
